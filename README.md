@@ -1,6 +1,6 @@
 # haveged as a Docker container
 
-It is used [haveged](http://www.issihosts.com/haveged/) to provide entropy on Linux headless servers.
+It is using [haveged](http://www.issihosts.com/haveged/) to provide entropy on Linux headless servers.
 
 ## Articles
 
